@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:post365/LoginPage/login_page.dart';
-import 'package:post365/LoginPage/register_page.dart';
 
 void main() => runApp(const POS365Login());
 
